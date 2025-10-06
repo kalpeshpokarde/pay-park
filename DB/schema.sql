@@ -1,3 +1,4 @@
+Try WhatsApp on your computer https://web.whatsapp.com/
 -- sql/schema.sql
 
 CREATE TABLE users (
